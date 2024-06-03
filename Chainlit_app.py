@@ -83,7 +83,7 @@ def Conversation():
         prompt=prompt,
         verbose=True,
     )
-    return conversation
+    cl.user_session.set("Conversation", conversation)
 
 
 
@@ -112,8 +112,6 @@ async def on_chat_resume(thread: ThreadDict):
 
     Conversation()
 
-    cl.user_session.set("Conversation", Conversation())
-    
 
 @cl.on_message
 async def main(message: str):
