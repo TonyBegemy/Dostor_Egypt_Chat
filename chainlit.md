@@ -1,14 +1,10 @@
-# Welcome to Chainlit! 🚀🤖
-
-Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+# اهلا بك في دستور بوت
 
 ## Useful Links 🔗
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
-
-We can't wait to see what you create with Chainlit! Happy coding! 💻😊
+- **Documentation:** Go here for our documentation [Documentation](https://docs.google.com/document/d/1SDHV7fm3th7V-6F7DkwtyDuyI35Mo8WsCa0-6Ex4XiA/edit) 📚
+- **Original Website:** Go to the dostoor website [Dostroor](https://www.presidency.eg/ar/%D9%85%D8%B5%D8%B1/%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1/) 💬
 
 ## Welcome screen
 
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+As an Egyptian citizen, you need to know your dostoor to understand your laws and rights. Reading through a large PDF full of text could be fun for some people, but for most this is tedious. The objective is to optimize the GPT model to make a specialized LLM specifically in the dostoor so you can ask it any question you need. This model aims to assist lawyers, students, legal professionals, and the general public in understanding their dostoor.
